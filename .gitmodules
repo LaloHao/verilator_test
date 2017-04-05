@@ -1,0 +1,6 @@
+[submodule "receptor-uart"]
+	path = receptor-uart
+	url = git@github.com:LaloHao/receptor-uart
+[submodule "8bit-cpu"]
+	path = 8bit-cpu
+	url = git@github.com:LaloHao/8bit-cpu
